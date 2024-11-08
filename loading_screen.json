@@ -1,1 +1,15 @@
-
+{
+  "appUpdate": {
+    "title": "2D Myanmar V2 Update is now available.",
+    "updateVersion": 1.0,
+    "description": "",
+    "downloadLink": "https://www.google.com",
+    "setCancelable": false,
+    "buttonOne": "Update",
+    "buttonTwo": "Cancel",
+    "buttonTwoType": "Exit"
+  },
+  "appStatus": {
+    "toEnter": true
+  }
+}
