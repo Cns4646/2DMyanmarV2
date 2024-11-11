@@ -2,7 +2,7 @@
   "appUpdate": {
     "title": "Update is now available.",
     "updateVersion": 1.1,
-    "description": "",
+    "description": "ဘာမှမပြောင်းထားပါ",
     "downloadLink": "https://www.google.com",
     "setCancelable": false,
     "buttonOne": "Update",
