@@ -6,7 +6,7 @@
     "downloadLink": "https://www.google.com",
     "setCancelable": false,
     "buttonOne": "Update",
-    "buttonTwo": "Exit",
+    "buttonTwo": "Cancel",
     "buttonTwoType": "Exit"
   },
   "appStatus": {
