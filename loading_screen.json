@@ -11,6 +11,7 @@
   },
   "appStatus": {
     "toEnter": true,
-    "message": "App ရဲ့ လိုအပ်ချက်များ အရ Server Update အနေနဲ့ လုပ်ပေးနေသဖြင့် ဝင်လိုမရသေးပါခင်ဗျာ"
+    "message": "App ရဲ့ လိုအပ်ချက်များ အရ Server Update အနေနဲ့ လုပ်ပေးနေသဖြင့် ဝင်လိုမရသေးပါခင်ဗျာ",
+    "buttonText":"Exit"
   }
 }
